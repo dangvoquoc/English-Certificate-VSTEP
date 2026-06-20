@@ -6,3 +6,5 @@
   <img width="740" height="520" alt="image" src="https://github.com/user-attachments/assets/58f5631a-239e-40d4-868c-84a7aa5730a6" />
 </p>
 
+For PDF File and Detailed Review, pls check following links
+[Engineer Degree](https://github.com/dangvoquoc/English-Certificate-VSTEP/blob/main/ChungChiNgoaiNgu.pdf)
